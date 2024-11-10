@@ -1,4 +1,5 @@
 # 초등학교 4학년 수학 챗봇 개발 및 성능 평가
+<img width="734" alt="초등 4학년 수학 검색 챗봇 개발 발표 자료" src="https://github.com/user-attachments/assets/1c414c57-b7eb-41fd-bbdc-975cfdb207c7">
 
 ## Skills
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
