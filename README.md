@@ -8,9 +8,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;
 
-## 프로젝트 제목
-**초등학교 4학년 수학 챗봇 개발 및 성능 평가**
-
 ## 프로젝트 상세
 
 - **진행 기간**: 2024년 9월 12일 ~ 2024년 9월 23일
